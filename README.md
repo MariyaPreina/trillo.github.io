@@ -28,12 +28,6 @@ This website was built from Jonas Schmedtmann's [Advanced CSS course] on Udemy.
 
 
 
-
-
-![Screenshot](/img/screenshot-xs.png)
-
-
-
 >LINK https://mariyapreina.github.io/trillo.github.io/
 
 
